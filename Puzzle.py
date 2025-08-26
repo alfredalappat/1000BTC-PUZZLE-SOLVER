@@ -264,5 +264,5 @@ while True:
     hex_count += 78
     if hex_count%10000==0:
         en=int(time.time())
-        print(hex_count,f"speed = {int(hex_count/(en-st))} per sec")
+        print("Total scanned "hex_count,f"speed = {int(hex_count/(en-st))} keys  per sec")
 
