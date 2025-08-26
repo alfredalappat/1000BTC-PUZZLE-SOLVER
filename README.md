@@ -11,6 +11,8 @@ pip install bit
 3) run the program
    python puzzle.py
 
+iam getting a speed of 18000 keys per sec in my low end i5 processor.
+
 
 if you get lucky, give me a tip please .
 Donation (BTC) = 15xRV74LB17ejrbELH6di7gcuyZU9evRMc
