@@ -10,7 +10,7 @@ usage
 pip install bit
 3) run the program
    python puzzle.py
-for Android, use pydroid application to run this program...
+4)for Android, use pydroid application to run this program...
 
 
 iam getting a speed of 18000 keys per sec in my low end i5 processor.
