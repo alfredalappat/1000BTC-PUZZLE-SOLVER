@@ -10,12 +10,15 @@ usage
 pip install bit
 3) run the program
    python puzzle.py
-4)for Android, use pydroid application to run this program...
+
+
+   
+For Android, use pydroid application to run this program...
 
 
 iam getting a speed of 18000 keys per sec in my low end i5 processor.
       NOTE:-
-IF YOU SOME SOMEHOW MANAGE TO FIND ANYTHING, JUST USE MARAPOOL SLIPSTREM SERVICE. ELSE THE REWARD WILL BE STOLEN BY BOTS(SURE).
+IF YOU SOMEHOW MANAGE TO FIND ANYTHING, JUST USE MARAPOOL SLIPSTREM SERVICE. ELSE THE REWARD WILL BE STOLEN BY BOTS(SURE).
 
 if you get lucky, give me a tip please .
 Donation(BTC)= 15xRV74LB17ejrbELH6di7gcuyZU9evRMc
