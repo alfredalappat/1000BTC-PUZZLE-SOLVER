@@ -10,13 +10,14 @@ usage
 pip install bit
 3) run the program
    python puzzle.py
+4) Ensure the found.txt file is in the same folder as puzzle.py.
 
 
    
 For Android, use pydroid application to run this program...
 
 
-iam getting a speed of 18000 keys per sec in my low end i5 processor.
+iam getting a speed of 13000 keys per sec in my low end i5 processor.
       NOTE:-
 IF YOU SOMEHOW MANAGE TO FIND ANYTHING, JUST USE MARAPOOL SLIPSTREM SERVICE. ELSE THE REWARD WILL BE STOLEN BY BOTS(SURE).
 
