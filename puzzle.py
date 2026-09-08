@@ -6,7 +6,7 @@ from bit import Key
 print("BITCOIN PUZZLE SOLVER")
 time.sleep(1)
 print("DON'T WORRY, THIS CODE IS NOT USING YOUR COMPUTING POWER FO ME.")
-print("DONATION BTC = 15xRV74LB17ejrbELH6di7gcuyZU9evRMc   if you get lucky , give me a tip please ..")
+print("DONATION BTC = bc1qjqmgkuu4qefgwpdq24dvmz60pvjnn7egvc4zke   if you get lucky , give me a tip please ..")
 time.sleep(1)
 print("Scanning starts...")
 st=int(time.time())
