@@ -21,5 +21,7 @@ iam getting a speed of 13000 keys per sec in my low end i5 processor.
       NOTE:-
 IF YOU SOMEHOW MANAGE TO FIND ANYTHING, JUST USE MARAPOOL SLIPSTREM SERVICE. ELSE THE REWARD WILL BE STOLEN BY BOTS(SURE).
 
+Please click the ⭐ on the top right if you like/use/clone this program.
+
 if you get lucky, give me a tip please .
 Donation(BTC)= bc1qjqmgkuu4qefgwpdq24dvmz60pvjnn7egvc4zke
